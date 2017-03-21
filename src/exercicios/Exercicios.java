@@ -19,6 +19,7 @@ public class Exercicios {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         //entradas
+        //teste
         System.out.print("x1: ");
         Double x1 = leia.nextDouble();
         System.out.print("x2: ");
